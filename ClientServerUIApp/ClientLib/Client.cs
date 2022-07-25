@@ -12,7 +12,6 @@ namespace ClientLib
 {
     public class Client
     {
-
         #region Constructor
 
         public Client() 
